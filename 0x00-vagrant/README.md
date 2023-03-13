@@ -1,0 +1,1 @@
+This directory deal with the 'uname' command
